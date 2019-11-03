@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NBody",
+            "request": "launch",
+            "mainClass": "NBody",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-In<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "In",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdAudio<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "StdAudio",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdDraw<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "StdDraw",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdOut<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "StdOut",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestBodyConstructor<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "TestBodyConstructor",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestCalcDistance<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "TestCalcDistance",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestCalcForceExertedBy<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "TestCalcForceExertedBy",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestCalcForceExertedByXY<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "TestCalcForceExertedByXY",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestCalcNetForceExertedByXY<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "TestCalcNetForceExertedByXY",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestReadBodies<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "TestReadBodies",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestReadRadius<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "TestReadRadius",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestUpdate<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "TestUpdate",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BasicInDemo<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "examples.BasicInDemo",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-In<skeleton-sp19_65a712fb>(1)",
+            "request": "launch",
+            "mainClass": "examples.In",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InDemo<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "examples.InDemo",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdDraw<skeleton-sp19_65a712fb>(1)",
+            "request": "launch",
+            "mainClass": "examples.StdDraw",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdDrawDemo<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "examples.StdDrawDemo",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdOut<skeleton-sp19_65a712fb>(1)",
+            "request": "launch",
+            "mainClass": "examples.StdOut",
+            "projectName": "skeleton-sp19_65a712fb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdRandom<skeleton-sp19_65a712fb>",
+            "request": "launch",
+            "mainClass": "examples.StdRandom",
+            "projectName": "skeleton-sp19_65a712fb"
+        }
+    ]
+}
